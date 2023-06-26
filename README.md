@@ -3,7 +3,7 @@ I'm a former pharmacy techniacian turned software developer. And long story shor
 
 ### I've worked with the following languages / libraries / technologies:
 - JavaScript, HTML, CSS, React, Redux, Node.js, Express.js, Sequelize, PostgreSQL, Firebase (Realtime Database, Cloud Functions, Hosting), Scala, Thrift, React Testing Library
-### I've dabbled in /experimented with:
+### I've dabbled in:
 - TypeScript, Python, Flask, MongoDB, SQL, Figma, TensorFlow, Jest, GraphQL
 ### I'm interested in learning more about:
 - TypeScript, Python, Webpack, Babel, AI/ML, Accessibility
